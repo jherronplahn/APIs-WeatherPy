@@ -168,7 +168,7 @@ city500.head(10)
 api_key = api_keys.api_key
 
 # Starting URL for Weather Map API Call
-# url = "http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=" + api_key 
+url = "http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=" + api_key 
 ```
 
 ## Perform API Calls
