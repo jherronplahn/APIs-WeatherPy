@@ -1414,7 +1414,7 @@ plt.show
 
 
 
-![png](output_11_1.png)
+![png](LatitudevsTemperature.png)
 
 
 
@@ -1438,7 +1438,7 @@ plt.show
 
 
 
-![png](output_12_1.png)
+![png](LatitudevsHumidity.png)
 
 
 
@@ -1462,7 +1462,7 @@ plt.show
 
 
 
-![png](output_13_1.png)
+![png](LatitudevsCloudiness.png)
 
 
 
@@ -1486,5 +1486,5 @@ plt.show
 
 
 
-![png](output_14_1.png)
+![png](LatitudevsWindspeed.png)
 
